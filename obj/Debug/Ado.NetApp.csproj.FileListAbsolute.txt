@@ -1,0 +1,12 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\bin\Debug\Ado.NetGiriş.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\bin\Debug\Ado.NetGiriş.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\bin\Debug\Ado.NetGiriş.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetApp.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetGiriş.Form1.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetGiriş.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetApp.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetApp.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetGiriş.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetGiriş.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsAdo.NetAPP\Ado.NetGiriş\obj\Debug\Ado.NetGiriş.Frmcategory.resources
